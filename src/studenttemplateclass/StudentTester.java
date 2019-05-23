@@ -10,6 +10,10 @@ package studenttemplateclass;
  *
  * @author ekamp
  */
+private String name;
+private int sid;
+private int Maxcourse;
+
 public class StudentTester {
     System.out.println("fetch example");
 }
