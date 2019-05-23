@@ -11,5 +11,5 @@ package studenttemplateclass;
  * @author ekamp
  */
 public class StudentTester {
-    
+    System.out.println("fetch example");
 }
